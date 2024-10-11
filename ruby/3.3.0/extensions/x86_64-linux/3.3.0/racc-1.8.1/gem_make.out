@@ -1,0 +1,18 @@
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/recreation/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-6biln9 sitelibdir\=./.gem.20241011-17332-6biln9 clean
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-6biln9 sitelibdir\=./.gem.20241011-17332-6biln9
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-6biln9 sitelibdir\=./.gem.20241011-17332-6biln9 install
+/usr/bin/install -m 0755 cparse.so ./.gem.20241011-17332-6biln9/racc
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-6biln9 sitelibdir\=./.gem.20241011-17332-6biln9 clean

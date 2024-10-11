@@ -1,0 +1,18 @@
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/recreation/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-stpb5y sitelibdir\=./.gem.20241011-17332-stpb5y clean
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-stpb5y sitelibdir\=./.gem.20241011-17332-stpb5y
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-stpb5y sitelibdir\=./.gem.20241011-17332-stpb5y install
+/usr/bin/install -m 0755 cruby.so ./.gem.20241011-17332-stpb5y/skiptrace/internal
+
+current directory: /home/recreation/project/simple-x/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241011-17332-stpb5y sitelibdir\=./.gem.20241011-17332-stpb5y clean

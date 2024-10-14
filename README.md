@@ -1,24 +1,12 @@
-# README
+# X APP IN RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple web application like X (Twitter) concept, build with Ruby on Rails Framework fullstack.
 
-Things you may want to cover:
+## Prerequisites
 
-* Ruby version
+Before installing the application, ensure you have the following:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- **Ruby** (version 3.x or higher) installed
+- **Rails** (version 7.x or higher) installed
+- **MariaDB** or any other preferred database installed
+- **Bundler** gem installed
